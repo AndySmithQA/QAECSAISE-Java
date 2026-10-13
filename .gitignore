@@ -1,0 +1,8 @@
+target/
+.idea/
+*.iml
+*.db
+*.db-journal
+.classpath
+.project
+.settings/
